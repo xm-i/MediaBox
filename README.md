@@ -1,5 +1,12 @@
 # MediaBox(仮称)
-  
+
+> [!WARNING]
+> このリポジトリは現在メンテナンスされていません。
+> 次期版は [MediaDeck](https://github.com/xm-i/MediaDeck) をご利用ください。
+>
+> This repository is no longer maintained.
+> Please use the next-generation version: [MediaDeck](https://github.com/xm-i/MediaDeck).
+
 ## MediaBoxとは
  
  **概要**  
